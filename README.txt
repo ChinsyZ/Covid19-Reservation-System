@@ -1,5 +1,5 @@
 1.My Full name:				Chenxin Zhao
-2.My School: USC
+2.Date:					03/2021-04/2021
 ===================================================================================================
 3.What I have done in the assignment:
 
